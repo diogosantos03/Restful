@@ -1,1 +1,1 @@
-# Exemplo de aplicação Restful
+# Exemplo de aplicação webservice Restful
